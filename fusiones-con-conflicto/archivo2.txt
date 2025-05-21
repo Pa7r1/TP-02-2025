@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 modificacion de conflicto desde la rama conflicto 3
+=======
+modificacion desde conflicto4 para el archivo2.txt
+>>>>>>> conflicto4
