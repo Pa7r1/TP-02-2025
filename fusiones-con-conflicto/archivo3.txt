@@ -1,1 +1,1 @@
-archivo inicial del tercer conflicto
+modificacion del archivo con conflicto desde conflictoNuevo2
