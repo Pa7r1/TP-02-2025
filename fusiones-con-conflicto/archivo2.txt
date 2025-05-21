@@ -1,1 +1,1 @@
-inicio del segundo conflicto
+modificacion desde conflicto4 para el archivo2.txt
