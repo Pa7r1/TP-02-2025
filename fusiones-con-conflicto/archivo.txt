@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 conflicto rama conflico 1
+=======
+modificacion de conflicto desde rama conflicto2
+>>>>>>> conflicto2
