@@ -1,1 +1,1 @@
-nuevo intento
+modificacion de conflicto desde rama conflicto2
