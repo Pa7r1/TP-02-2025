@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 modificacion del archivo desde conflictoNuevo1
+=======
+modificacion del archivo con conflicto desde conflictoNuevo2
+>>>>>>> conflictoNuevo2
